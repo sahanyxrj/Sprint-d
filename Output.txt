@@ -1,0 +1,28 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/private/var/folders/_h/9q_7kp7157x92st4z5_n1z0w0000gn/T/AppTranslocation/4D6CE7F1-0FAA-420A-9C65-F78ED84CD903/d/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=61371:/private/var/folders/_h/9q_7kp7157x92st4z5_n1z0w0000gn/T/AppTranslocation/4D6CE7F1-0FAA-420A-9C65-F78ED84CD903/d/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/Sahany/IdeaProjects/Sprint'd/out/production/Sprint'd Main
+
+With 8 devs working a 3 week sprint, for 40 hrs/wk, we would be at 166% of capacity
+With 9 devs working a 3 week sprint, for 40 hrs/wk, we would be at 147% of capacity
+With 10 devs working a 3 week sprint, for 40 hrs/wk, we would be at 133% of capacity
+With 11 devs working a 3 week sprint, for 40 hrs/wk, we would be at 120% of capacity
+With 8 devs working a 4 week sprint, for 40 hrs/wk, we would be at 124% of capacity
+With 8 devs working a 5 week sprint, for 40 hrs/wk, we would be at 99% of capacity
+With 8 devs working a 6 week sprint, for 40 hrs/wk, we would be at 83% of capacity
+
+With 8 devs working a 3 week sprint, for 35 hrs/wk, we would be at 189% of capacity
+With 9 devs working a 3 week sprint, for 35 hrs/wk, we would be at 168% of capacity
+With 10 devs working a 3 week sprint, for 35 hrs/wk, we would be at 151% of capacity
+With 11 devs working a 3 week sprint, for 35 hrs/wk, we would be at 138% of capacity
+With 8 devs working a 4 week sprint, for 35 hrs/wk, we would be at 142% of capacity
+With 8 devs working a 5 week sprint, for 35 hrs/wk, we would be at 114% of capacity
+With 8 devs working a 6 week sprint, for 35 hrs/wk, we would be at 95% of capacity
+
+With 8 devs working a 3 week sprint, for 30 hrs/wk, we would be at 221% of capacity
+With 9 devs working a 3 week sprint, for 30 hrs/wk, we would be at 196% of capacity
+With 10 devs working a 3 week sprint, for 30 hrs/wk, we would be at 177% of capacity
+With 11 devs working a 3 week sprint, for 30 hrs/wk, we would be at 161% of capacity
+With 8 devs working a 4 week sprint, for 30 hrs/wk, we would be at 166% of capacity
+With 8 devs working a 5 week sprint, for 30 hrs/wk, we would be at 133% of capacity
+With 8 devs working a 6 week sprint, for 30 hrs/wk, we would be at 110% of capacity
+
+
+Process finished with exit code 0
